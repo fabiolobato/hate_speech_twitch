@@ -11,7 +11,7 @@
 #### **Autores**
 <table>
   <tr>
-    <td align="center"><a href="http://lattes.cnpq.br/0426846510205467"><img style="width: 100px; height:auto;" src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2121486J2" width="100px;" alt=""/><br /><sub><b>Lucas D. F. Rodrigues</b></sub></a><br /><sub><b>UFOPA</b></sub></a></td>
+    <td align="center"><a href="http://lattes.cnpq.br/0426846510205467"><img style="width: 100px; height:auto;" src="https://bit.ly/3Ej189W" width="100px;" alt=""/><br /><sub><b>Lucas D. F. Rodrigues</b></sub></a><br /><sub><b>UFOPA</b></sub></a></td>
     <td align="center"><a href="http://lattes.cnpq.br/4856853219520680"><img style="width: 138px; height:auto;" src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8382971J4" width="100px;" alt=""/><br /><sub><b>Luiz C. C. L. Junior</b></sub></a><br /><sub><b>UEMA</b></sub></a></td>
     <td align="center"><a href="http://lattes.cnpq.br/4510520291728075"><img style="width: 80px; height:auto;" src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4125840Z1" width="100px;" alt=""/><br /><sub><b>Antonio F. L. Jacob Junior</b></sub></a><br /><sub><b>UEMA</b></sub></a></td>
     <td align="center"><a href="http://lattes.cnpq.br/8320014491229434"><img style="width: 108px; height:auto;" src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4450672H1" width="100px;" alt=""/><br /><sub><b>Fábio M. F. Lobato</b></sub></a><br /><sub><b>UFOPA | UEMA</b></sub></a></td>

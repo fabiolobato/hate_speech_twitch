@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/fabiolobato/hate_speech_twitch)
 
 #### **Dados sobre o artigo**
-> Artigo aceito e publicado no **X Brazilian Workshop on Social Network Analysis and Mining**, no ano de 2021. A base de dados utilizada para os testes foi construída com comentários dos 10 _streamers_ mais populares no jogo _League of Legends_ e está disponível na plataforma de _Open Science **Zenodo**_.
+> Artigo publicado no **X Brazilian Workshop on Social Network Analysis and Mining**, no ano de 2021. A base de dados utilizada para os testes foi construída com comentários dos 10 _streamers_ mais populares no jogo _League of Legends_ e está disponível na plataforma de _Open Science **Zenodo**_.
 
 #### **Autores**
 <table>
@@ -18,17 +18,22 @@
   </tr>
 <table>
 
+### :blue_book: ***Leia o artigo completo publicado no X Brazilian Workshop on Social Network and Mining (2021) clicando <a href="https://doi.org/10.5753/brasnam.2021.16128">aqui</a>.***
+<br>
 
+#### :open_file_folder: ***Para visualizar as informações e baixar a base de dados no Zenodo, clique <a>aqui</a>.***
+
+<br>
 
 # Resumo
 
 O crescimento das plataformas de transmissão ao vivo como a Twitch, impulsionado pelo aumento no volume de criadores de conteúdo, impactou positivamente em uma indústria economicamente importante, os jogos eletrônicos (e-Sports). O destaque da categoria dentro do tipo Multiplayer Online Battle Arena (MOBA) vai para o League of Legends, que foi um dos responsáveis pela legitimação e profissionalização dos e-Sports. O jogo possui uma vasta gama de criadores e que trazem consigo uma grande quantidade de interações dos internautas que os assistem. Um fenômeno deletério percebido neste cenário é a proliferação de discursos ofensivos, com comentários atacando ou denegrindo pessoas ou grupos, criando uma rede de ódio. Neste ensejo, neste trabalho apresentamos um conjunto de dados construído com comentários extraídos das transmissões dos criadores com maior engajamento na plataforma, visualizando os aspectos característicos e verificando de forma experimental, como o ódio está distribuído. Esta base de dados tem o potencial de auxiliar pesquisas envolvendo a detecção e também na análise desta indústria/domínio de aplicação da temática abordada. 
 
-***AVISO: Este repositório contém elementos que apresentam linguagem ofensiva e/ou pejorativa.***
+***AVISO: Este repositório contém elementos que apresentam linguagem ofensiva e/ou pejorativa, e que podem causar gatilhos mentais.***
 
 ---
 
-**Por favor, cite o nosso artigo caso você utilize qualquer um dos recursos aqui disponibilizados.**
+**Por favor, cite o nosso <a href="https://doi.org/10.5753/brasnam.2021.16128">artigo</a> e <a href="https://doi.org/10.5281/zenodo.3735090">base de dados</a> caso você utilize qualquer um dos recursos aqui disponibilizados.**
 
 ~~~bibtex
 @inproceedings{brasnam,
@@ -48,6 +53,24 @@ O crescimento das plataformas de transmissão ao vivo como a Twitch, impulsionad
 
 ~~~
 
+~~~bibtex
+@dataset{luiz_c_c_lima_junior_2020_3735091,
+  author       = {Luiz C. C. Lima Junior and
+                  Lucas D. F. Rodrigues and
+                  Antonio F. L. Jacob Junior and
+                  Fábio M. F. Lobato},
+  title        = {{League of Legends and hate speech: a corpus for 
+                   comments in Twitch.tv}},
+  month        = mar,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.3735091},
+  url          = {https://doi.org/10.5281/zenodo.3735091}
+}
+
+~~~
+
 ------------------------------------------
 ***Descrição dos arquivos***
 ------------------------------------------
@@ -60,4 +83,18 @@ O crescimento das plataformas de transmissão ao vivo como a Twitch, impulsionad
 - toxic_train.csv     --> Base CSV para treino dos algoritmos.
 
 ~~~
+------------------------------------------
+
+***Dependências***
+------------------------------------------
+
+| Pacotes      | URL    |
+| ------       | ------ |
+| Python       | https://www.python.org/ |
+| Tensorflow   | https://www.tensorflow.org/ |
+| Keras        | https://keras.io/ |
+| PyTorch      | https://pytorch.org/ |
+| Scikit-Learn | https://scikit-learn.org/ |
+| NLTK         | https://www.nltk.org/ |
+
 ------------------------------------------

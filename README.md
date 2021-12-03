@@ -19,9 +19,7 @@
 <table>
 
 ### :blue_book: ***Leia o artigo completo publicado no X Brazilian Workshop on Social Network and Mining (2021) clicando <a href="https://doi.org/10.5753/brasnam.2021.16128">aqui</a>.***
-<br>
-
-#### :open_file_folder: ***Para visualizar as informações e baixar a base de dados no Zenodo, clique <a>aqui</a>.***
+#### :open_file_folder: ***Para visualizar as informações e baixar a base de dados no Zenodo, clique <a href="https://doi.org/10.5281/zenodo.3735090">aqui</a>.***
 
 <br>
 

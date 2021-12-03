@@ -28,7 +28,7 @@
 
 O crescimento das plataformas de transmissão ao vivo como a Twitch, impulsionado pelo aumento no volume de criadores de conteúdo, impactou positivamente em uma indústria economicamente importante, os jogos eletrônicos (e-Sports). O destaque da categoria dentro do tipo Multiplayer Online Battle Arena (MOBA) vai para o League of Legends, que foi um dos responsáveis pela legitimação e profissionalização dos e-Sports. O jogo possui uma vasta gama de criadores e que trazem consigo uma grande quantidade de interações dos internautas que os assistem. Um fenômeno deletério percebido neste cenário é a proliferação de discursos ofensivos, com comentários atacando ou denegrindo pessoas ou grupos, criando uma rede de ódio. Neste ensejo, neste trabalho apresentamos um conjunto de dados construído com comentários extraídos das transmissões dos criadores com maior engajamento na plataforma, visualizando os aspectos característicos e verificando de forma experimental, como o ódio está distribuído. Esta base de dados tem o potencial de auxiliar pesquisas envolvendo a detecção e também na análise desta indústria/domínio de aplicação da temática abordada. 
 
-***<a style="color: red;">AVISO:</a> Este repositório contém elementos que apresentam <a style="color: red;">linguagem ofensiva e/ou pejorativa</a>, e que podem potencialmente causar <a style="color: orange;">gatilhos mentais</a>.***
+***<a style="color: red;">Aviso de Gatilhos:</a> Este repositório contém elementos que apresentam <a style="color: red;">linguagem ofensiva e/ou pejorativa</a>, e que podem potencialmente causar <a style="color: orange;">gatilhos mentais</a>.***
 
 ---
 
